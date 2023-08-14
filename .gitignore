@@ -162,4 +162,4 @@ cython_debug/
 .dev
 secret.txt
 *.db
-python-sample-FastAPI-application/*
+-python-sample-FastAPI-application/*
